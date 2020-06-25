@@ -1,7 +1,7 @@
 {
 "companyName": "Nekocumber Games",
 "productName": "Filo di Nook",
-"productVersion": "0.6.2",
+"productVersion": "1.0.0",
 "dataUrl": "Filo di Nook.data.unityweb",
 "wasmCodeUrl": "Filo di Nook.wasm.code.unityweb",
 "wasmFrameworkUrl": "Filo di Nook.wasm.framework.unityweb",
