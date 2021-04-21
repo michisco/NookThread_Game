@@ -1,6 +1,6 @@
 ![alt text](https://github.com/michisco/NookThread_Game/blob/master/Titolo_1.0.png)
 
-Gioco in 2D con visuale dall'alto sviluppato con Unity in C# per un evento nel forum di Animal Crossing Life. Game art designed by [AoiMusubi](https://www.instagram.com/aoimusubi/)
+Gioco in 2D con visuale dall'alto sviluppato con Unity in C# per un evento nel forum di Animal Crossing Life. Game art designed by [leramyce](https://www.instagram.com/leramyce/)
 
 ## Scopo del gioco
 Il giocatore deve raggiungere il tesoro nascosto nel labirinto e portarlo fuori prima che la struttura crolli! Durante la fuga il giocatore, ad ogni passo, perderà alcuni soldi ottenuti fino a quel momento.
